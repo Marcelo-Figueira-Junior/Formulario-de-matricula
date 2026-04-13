@@ -10,12 +10,12 @@ main {
     overflow: auto;
     padding: 4rem;
 
-    &.main-container {
+    & .main-container {
         max-width: 33rem;
         margin-left: auto;
     }
 
-    &.back {
+    & .back {
         display: flex;
         align-items: center;
         gap: .5rem;

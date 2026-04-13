@@ -26,7 +26,6 @@ input[type="date"]:focus-within {
     outline: .25rem solid var(--surface-secondary);
     border-color: var(--stroke-highlight);
     outline-offset: .1px;
-
 }
 
 input[type="date"] {
